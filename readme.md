@@ -27,7 +27,4 @@ This project generates a CSV file with random records based on specified paramet
    ```sh
    node index.js
    ```
-2. Modify the function call in `index.js` to generate different datasets.
 
-
-```
