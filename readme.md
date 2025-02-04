@@ -25,6 +25,6 @@ This project generates a CSV file with random records based on specified paramet
 
 1. Run the script to generate a CSV file:
    ```sh
-   node index.js
+   node app.js
    ```
 
