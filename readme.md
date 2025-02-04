@@ -13,7 +13,7 @@ This project generates a CSV file with random records based on specified paramet
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/random-csv-generator.git
+https://github.com/alishba2/csv-file-generator-node-.git
    cd random-csv-generator
    ```
 2. Install dependencies:
